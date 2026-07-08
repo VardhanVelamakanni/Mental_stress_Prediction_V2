@@ -82,6 +82,7 @@ Evaluation metrics include:
 
 <img width="623" height="122" alt="image" src="https://github.com/user-attachments/assets/fcdd16f9-4c18-4cbb-94bd-6afe34119f42" />
 
+<img width="320" height="271" alt="image" src="https://github.com/user-attachments/assets/e491db27-3fad-4ca4-bc80-4a199d201909" />
 
 ---
 
