@@ -156,8 +156,6 @@ python evaluate.py
 
 ---
 
-## Author
-
 **Hemavardhan Velamakanni**
 
 Computer Vision | Deep Learning | Machine Learning
